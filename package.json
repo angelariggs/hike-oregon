@@ -1,0 +1,22 @@
+{
+  "name": "hike-oregon",
+  "version": "1.0.0",
+  "description": "web app to combine search for oregon hikes with weather and photos of the location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelariggs/hike-oregon.git"
+  },
+  "author": "angela riggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelariggs/hike-oregon/issues"
+  },
+  "homepage": "https://github.com/angelariggs/hike-oregon#readme",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
